@@ -23,6 +23,6 @@ document.getElementById("preloader").style.display = 'none';
 
 }
 
-window.addEventListener("load",function(){ setTimeout(closepreloader, 1000);
+window.addEventListener("load",function(){ setTimeout(closepreloader, 2000);
 
 });
